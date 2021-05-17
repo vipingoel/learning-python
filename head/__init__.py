@@ -1,0 +1,1 @@
+print("init head. Path:", __path__)

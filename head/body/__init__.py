@@ -1,0 +1,1 @@
+print("init body. Path:", __path__)

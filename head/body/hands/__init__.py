@@ -1,0 +1,1 @@
+print("init hands. Path:", __path__)
